@@ -68,3 +68,6 @@ Betshops is one page example application.
 	}]
 
 Example CURL request and response is provided in "curl.log".
+
+### Screenshot
+https://github.com/MatijaKruljac/betshops-example-app/blob/master/betshops_screenshot.jpg
