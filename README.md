@@ -66,3 +66,5 @@ Betshops is one page example application.
 		"WorkingHourEnd": "20:00",
         "Phone": "(033)216-0058 x0344"
 	}]
+
+Example CURL request and response is provided in "curl.log".
